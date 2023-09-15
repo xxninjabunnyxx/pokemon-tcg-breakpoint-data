@@ -1,0 +1,96 @@
+---
+id: xy9-3
+name: Meganium
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '150'
+types:
+- Grass
+evolvesFrom: Bayleef
+abilities:
+- name: Overgrow
+  text: If this Pokémon's remaining HP is 50 or less, its attacks do 70 more damage
+    to your opponent's Active Pokémon (before applying Weakness and Resistance).
+  type: Ability
+attacks:
+- name: Green Force
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '50'
+  text: Heal from this Pokémon the same amount of damage you did to your opponent's
+    Active Pokémon.
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy9
+  name: BREAKpoint
+  series: XY
+  printedTotal: 122
+  total: 126
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: BKP
+  releaseDate: 2016/02/03
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy9/symbol.png
+    logo: https://images.pokemontcg.io/xy9/logo.png
+number: '3'
+artist: kawayoo
+rarity: Rare Holo
+flavorText: Meganium's breath has the power to revive dead grass and plants. It can
+  make them healthy again.
+nationalPokedexNumbers:
+- 154
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy9/3.png
+  large: https://images.pokemontcg.io/xy9/3_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy9-3
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 0.29
+      mid: 0.9
+      high: 4.95
+      market: 0.72
+      directLow: 0.56
+    reverseHolofoil:
+      low: 0.5
+      mid: 0.81
+      high: 4.95
+      market: 0.74
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy9-3
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 1.85
+    lowPrice: 0.78
+    trendPrice: 1.89
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.4
+    lowPriceExPlus: 0.78
+    avg1: 0.75
+    avg7: 1.84
+    avg30: 1.6
+    reverseHoloAvg1: 0.35
+    reverseHoloAvg7: 0.35
+    reverseHoloAvg30: 0.47

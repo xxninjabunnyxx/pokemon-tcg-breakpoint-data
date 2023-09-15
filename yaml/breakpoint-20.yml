@@ -1,0 +1,96 @@
+---
+id: xy9-20
+name: Slowbro
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '100'
+types:
+- Water
+evolvesFrom: Slowpoke
+attacks:
+- name: Careless Head
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: 10+
+  text: Flip a coin. If heads, this attack does 50 more damage.
+- name: Walk-Off Homer
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: ''
+  text: If you use this attack when you have only 1 Prize card left, you win this
+    game.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: xy9
+  name: BREAKpoint
+  series: XY
+  printedTotal: 122
+  total: 126
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: BKP
+  releaseDate: 2016/02/03
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy9/symbol.png
+    logo: https://images.pokemontcg.io/xy9/logo.png
+number: '20'
+artist: kirisAki
+rarity: Uncommon
+flavorText: When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder.
+  That made it evolve into Slowbro.
+nationalPokedexNumbers:
+- 80
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy9/20.png
+  large: https://images.pokemontcg.io/xy9/20_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy9-20
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.09
+      mid: 0.25
+      high: 2.47
+      market: 0.25
+      directLow: 0.29
+    reverseHolofoil:
+      low: 0.2
+      mid: 0.41
+      high: 4.23
+      market: 0.38
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy9-20
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.16
+    lowPrice: 0.02
+    trendPrice: 0.14
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.68
+    reverseHoloLow: 0.25
+    reverseHoloTrend: 0.64
+    lowPriceExPlus: 0.02
+    avg1: 0.22
+    avg7: 0.16
+    avg30: 0.17
+    reverseHoloAvg1: 0.68
+    reverseHoloAvg7: 0.55
+    reverseHoloAvg30: 0.86

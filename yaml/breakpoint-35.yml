@@ -1,0 +1,98 @@
+---
+id: xy9-35
+name: Seismitoad
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '150'
+types:
+- Water
+evolvesFrom: Palpitoad
+attacks:
+- name: Siphon Off
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: ''
+  text: Attach 3 Energy cards from your discard pile to this Pokémon.
+- name: Shaky Fall
+  cost:
+  - Water
+  - Water
+  - Water
+  - Water
+  convertedEnergyCost: 4
+  damage: '90'
+  text: Your opponent's Active Pokémon is now Confused. That Pokémon can't retreat
+    during your opponent's next turn.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy9
+  name: BREAKpoint
+  series: XY
+  printedTotal: 122
+  total: 126
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: BKP
+  releaseDate: 2016/02/03
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy9/symbol.png
+    logo: https://images.pokemontcg.io/xy9/logo.png
+number: '35'
+artist: Kanako Eo
+rarity: Rare
+flavorText: They shoot paralyzing liquid from their head bumps. They use vibration
+  to hurt their opponents.
+nationalPokedexNumbers:
+- 537
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy9/35.png
+  large: https://images.pokemontcg.io/xy9/35_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy9-35
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.07
+      mid: 0.25
+      high: 1.24
+      market: 0.19
+      directLow: 0.16
+    reverseHolofoil:
+      low: 0.22
+      mid: 0.5
+      high: 4.95
+      market: 0.42
+      directLow: 0.3
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy9-35
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.19
+    lowPrice: 0.05
+    trendPrice: 0.1
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.21
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.42
+    lowPriceExPlus: 0.05
+    avg1: 0.18
+    avg7: 0.13
+    avg30: 0.18
+    reverseHoloAvg1: 0.35
+    reverseHoloAvg7: 0.36
+    reverseHoloAvg30: 0.45

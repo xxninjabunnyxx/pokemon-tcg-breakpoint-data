@@ -1,0 +1,97 @@
+---
+id: xy9-43
+name: Electivire
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '110'
+types:
+- Lightning
+evolvesFrom: Electabuzz
+attacks:
+- name: Knuckle Punch
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: ''
+- name: Electroslug
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '90'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy9
+  name: BREAKpoint
+  series: XY
+  printedTotal: 122
+  total: 126
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: BKP
+  releaseDate: 2016/02/03
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy9/symbol.png
+    logo: https://images.pokemontcg.io/xy9/logo.png
+number: '43'
+artist: Shin Nagasawa
+rarity: Uncommon
+flavorText: It pushes the tips of its two tails against the foe, then lets loose with
+  over 20,000 volts of power.
+nationalPokedexNumbers:
+- 466
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy9/43.png
+  large: https://images.pokemontcg.io/xy9/43_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy9-43
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.04
+      mid: 0.22
+      high: 2.15
+      market: 0.14
+      directLow: 
+    reverseHolofoil:
+      low: 0.19
+      mid: 0.39
+      high: 3.19
+      market: 0.28
+      directLow: 0.25
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy9-43
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.13
+    lowPrice: 0.02
+    trendPrice: 0.11
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.32
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.32
+    lowPriceExPlus: 0.02
+    avg1: 0.25
+    avg7: 0.13
+    avg30: 0.08
+    reverseHoloAvg1: 0.32
+    reverseHoloAvg7: 0.32
+    reverseHoloAvg30: 0.35
